@@ -1,0 +1,7 @@
++nơi khách nhập các phản hồi
++ admin quản lý phản hồi
++admin quản lý đơn hàng
++nơi quản lý tk mk khách
++ trang riêng khi khách đặt hàng sẽ xem đơn hàng bấm thanh toán
+ khi nhận hay online(nếu online sẽ có chỗ ck)
++đăg xuất tk
